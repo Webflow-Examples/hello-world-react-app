@@ -58,7 +58,7 @@ export default function App() {
             <a className="wf-btn wf-btn-primary" href="https://developers.webflow.com/webflow-cloud/storing-data/overview" target="_blank" rel="noreferrer">
               Read the bindings guide
             </a>
-            <a className="wf-btn wf-btn-ghost" href="https://github.com/Webflow-Examples/hello-world-react-app-bindings" target="_blank" rel="noreferrer">
+            <a className="wf-btn wf-btn-ghost" href="https://github.com/Webflow-Examples/hello-world-react-app/tree/sentry" target="_blank" rel="noreferrer">
               View on GitHub
             </a>
           </div>

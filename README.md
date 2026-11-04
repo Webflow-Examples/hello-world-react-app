@@ -1,4 +1,4 @@
-# hello-world-react-app-bindings
+# hello-world-react-app
 
 A **React 19 + Vite** starter for [**Webflow Cloud**](https://webflow.com/cloud) with Cloudflare bindings (D1, R2, KV) wired in.
 
@@ -7,7 +7,7 @@ At deploy time, Webflow Cloud provisions the configured services and injects the
 > Looking for the plain vanilla variant (no bindings)?
 > See [`hello-world-react-app`](https://github.com/Webflow-Examples/hello-world-react-app).
 
-[![Deploy to Webflow](https://webflow.com/img/deploy-dark.svg)](https://webflow.com/dashboard/cloud/deploy?repo=https://github.com/Webflow-Examples/hello-world-react-app-bindings)
+[![Deploy to Webflow](https://webflow.com/img/deploy-dark.svg)](https://webflow.com/dashboard/cloud/deploy?repo=https://github.com/Webflow-Examples/hello-world-react-app/tree/sentry)
 
 ## Requirements
 
