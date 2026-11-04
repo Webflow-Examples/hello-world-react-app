@@ -3,7 +3,7 @@
 A **React 19 + Vite** starter for [**Webflow Cloud**](https://webflow.com/cloud).
 
 > Looking for the bindings variant (D1, R2, KV)?
-> See [`hello-world-react-app-bindings`](https://github.com/Webflow-Examples/hello-world-react-app-bindings).
+> See [`hello-world-react-app@v19-with-bindings`](https://github.com/Webflow-Examples/hello-world-react-app/tree/v19-with-bindings).
 
 [![Deploy to Webflow](https://webflow.com/img/deploy-dark.svg)](https://webflow.com/dashboard/cloud/deploy?repo=https://github.com/Webflow-Examples/hello-world-react-app)
 
