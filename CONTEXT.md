@@ -1,4 +1,4 @@
-# CONTEXT — hello-world-react-app-bindings
+# CONTEXT — hello-world-react-app
 
 Orientation for contributors to this **React + Vite + bindings** Hello World
 example for [Webflow Cloud](https://developers.webflow.com/webflow-cloud). Keep
